@@ -59,5 +59,5 @@ while ~feof(fid)
 end
 Nitem=length(countRv);
 fclose(fid); 
-save ERT
+save ElectronicRT
 
