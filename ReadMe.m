@@ -33,4 +33,7 @@
 %std_area_ratio=0.006 - standard deviation of area_ratio
 
 
-
+% 2637 items with numbre of reviews >100 and score of 4+-1
+% 6431 dip reviews, ouly 223 of them are identified as "sticky" - influencing reviews after them
+% sticky incidents are a very small number of dip reviews
+% mostly people score indipendently. However, sometimes there is an effect of a bad score influencing others after it to give a bad score
