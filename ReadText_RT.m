@@ -10,7 +10,7 @@ fid = fopen(FileName, 'r');
 % for i = 1:3
 %     Rv = fgets(fid)
 % end
-maxBlocks    = 1,689,188;        % Number of reviews is given
+maxBlocks    = 1689188;        % Number of reviews is given
 countRv = zeros(7050,1);         % number of items 
 ERT       = cell( maxBlocks, 3);
 item       = 0;
